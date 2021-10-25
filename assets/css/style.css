@@ -33,6 +33,12 @@ a:hover {
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
+.watsapp_float{
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+  
+}
 
 .p-r {
   position: relative;
